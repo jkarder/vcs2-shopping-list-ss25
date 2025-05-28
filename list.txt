@@ -9,3 +9,4 @@ kaese
 salat
 gurken
 tomaten
+paprika
