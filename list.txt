@@ -5,3 +5,6 @@ leberkaaas
 chips
 wurst
 kaese
+salat
+gurken
+tomaten
