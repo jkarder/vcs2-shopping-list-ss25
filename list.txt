@@ -12,3 +12,4 @@ salat
 gurken
 tomaten
 paprika
+schoki
