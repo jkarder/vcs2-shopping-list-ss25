@@ -4,6 +4,7 @@ birnen
 bier
 leberkaaas
   - pikant
+  - kaas
 chips
 wurst
 kaese
