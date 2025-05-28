@@ -3,6 +3,7 @@ aepfel
 birnen
 bier
 leberkaaas
+  - pikant
 chips
 wurst
 kaese
