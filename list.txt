@@ -13,3 +13,4 @@ gurken
 tomaten
 paprika
 schoki
+muesli
