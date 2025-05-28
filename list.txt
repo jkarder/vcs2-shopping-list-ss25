@@ -3,6 +3,7 @@ aepfel
 birnen
 bier
 leberkaaas
+  - kaas
 chips
 wurst
 kaese
