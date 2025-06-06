@@ -4,6 +4,8 @@ kekse
 aepfel
 birnen
 bier
+  - freistaedter
+  - schlaegler
 leberkaaas
   - pikant
   - kaas
