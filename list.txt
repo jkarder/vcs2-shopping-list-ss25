@@ -14,3 +14,4 @@ tomaten
 paprika
 schoki
 muesli
+birnen
